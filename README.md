@@ -1,2 +1,2 @@
 # webApp
-react-native的webapp外壳
+react-native封装的webapp外壳
